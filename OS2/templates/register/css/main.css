@@ -1,0 +1,33 @@
+{%load static%}
+.form1{
+    margin-left: 32%;
+    margin-top: 5%;
+    color: #2e2d29;
+}
+h1{
+    text-align: center;
+
+}
+.btn1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+
+}
+label{
+    color: black;
+    font-size: 25px;
+}
+
+li{
+    color: black;
+    font-size: 15px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    margin-right: 10%;
+    margin-top: 20px;
+    color: black;
+}
